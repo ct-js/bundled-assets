@@ -1,0 +1,2 @@
+node lint.mjs
+pause
